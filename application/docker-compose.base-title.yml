@@ -1,0 +1,9 @@
+version: '3'
+
+services:
+  laravel:
+    image: saku2saku/2019-advent-calendar:base-title
+    ports:
+      - "18000:8000"
+    environment:
+      - APP_KEY=base64:97+1blEn4IXGFhv83Zc74qbAR306is3iOqhzdRkC0xI=
