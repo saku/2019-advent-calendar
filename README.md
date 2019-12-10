@@ -20,12 +20,12 @@ $ git clone git@github.com:saku/2019-advent-calendar.git
 
 ```
 .
-├── LICENSE								ライセンス文（MITです）
-├── README.md							このファイル
+├── LICENSE     				ライセンス文（MITです）
+├── README.md				    	このファイル
 ├── application
 │   ├── Dockerfile
-│   ├── docker-compose.base-title.yml	docker-composeでを使わない基本イメージの例
-│   ├── docker-compose.change-title.yml	docker-composeでVolumeトリックの検証する際の例
+│   ├── docker-compose.base-title.yml	        docker-composeでを使わない基本イメージの例
+│   ├── docker-compose.change-title.yml         docker-composeでVolumeトリックの検証する際の例
 │   ├── ...
 │   └── （その他はlaravelのファイル）
 └── kubernetes
