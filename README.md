@@ -1,5 +1,5 @@
 # このリポジトリについて
-このリポジトリはRetty Advent Calendar 11日目の記事である [`KubernetesでVolumeトリックを行う方法`]() のサンプルコードとなります。  
+このリポジトリはRetty Advent Calendar 11日目の記事である [`KubernetesでVolumeトリックを行う方法`](https://engineer.retty.me/entry/2019/12/11/120000) のサンプルコードとなります。  
 まずは上記の記事を参照した上で、このリポジトリをcloneして下記の検証手順に沿って記事の内容を確認していってもらえたらと思います。
 
 # 検証手順
